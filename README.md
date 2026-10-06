@@ -15,12 +15,10 @@ sections:
 ## Dashboard Preview
 
 ### Lead Analytics Dashboard
-
-![Lead Analytics Dashboard](./Screenshots/Lead_Analytics_Dashboard.png)
+![Lead Analytics Dashboard](Lead%20Analytics%20Dasboard.png)
 
 ### Opportunity Performance Dashboard
-
-![Opportunity Performance Dashboard](./Screenshots/Opportunity_Performance_Dashboard.png)
+![Opportunity Performance Dashboard](Opportunity%20Analytics%20Dashboard.png)
 
 ## Business Objectives
 
